@@ -1,1 +1,1 @@
-# crop_disease_prediction
+# Potato_Pulse_Potato_Disease_Classifier
