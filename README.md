@@ -22,34 +22,34 @@ The Plant Disease Classifier is a comprehensive project aimed at identifying pla
 
 ### 1. TensorFlow Model Training
 
-#### Training Dataset Acquisition
+- **Training Dataset Acquisition**
 Acquire insights into the dataset used for training our TensorFlow model. Explore the process of downloading and preprocessing the dataset sourced from Kaggle, ensuring its suitability for robust model training.
 
-#### Model Development
+- **Model Development**
 Dive deep into the development phase, where Jupyter Notebook files and Python scripts are meticulously crafted. Gain an understanding of the model architecture, hyperparameter tuning, and evaluation metrics employed to achieve optimal performance in classifying plant diseases.
 
 ### 2. FastAPI Backend Service
 
-#### API Development
+- **API Development**
 Delve into the intricacies of building a resilient backend API using FastAPI. Explore the endpoints designed for model inference, authentication mechanisms, and error handling strategies implemented to ensure seamless interaction with the frontend interface.
 
-#### Model Integration
+- **Model Integration**
 Discover how our backend service seamlessly integrates with the trained TensorFlow model to provide accurate predictions. Learn about the model loading process, input data validation, and response formatting to deliver reliable disease classification results to users.
 
 ### 3. ReactJS Frontend Interface
 
-#### User Interface Design
+- **User Interface Design**
 Uncover the design principles guiding the development of our user-friendly ReactJS frontend interface. Explore the intuitive layout, interactive features, and responsive design elements aimed at enhancing the user experience during image upload and result visualization.
 
-#### Backend Communication
+- **Backend Communication**
 Understand the underlying mechanisms enabling communication between the frontend interface and the backend API. Learn about data transmission protocols, error handling strategies, and asynchronous request handling techniques employed to ensure smooth data flow and real-time updates.
 
 ### 4. Docker Container Deployment
 
-#### Containerization
+- **Containerization**
 Explore the process of containerizing our backend API using Docker, facilitating seamless deployment and portability. Gain insights into Dockerfile configuration, image building, and container orchestration strategies to ensure consistent performance across diverse environments.
 
-#### Cloud Deployment
+- **Cloud Deployment**
 Witness the deployment of our Docker containers on Google Cloud Run, leveraging the scalability and reliability of cloud infrastructure. Learn about configuration settings, resource allocation, and monitoring tools utilized to optimize performance and ensure efficient processing of image data for disease classification.
 
 ## Website Images
