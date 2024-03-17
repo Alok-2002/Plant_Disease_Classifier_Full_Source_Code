@@ -114,6 +114,7 @@ plant-disease-classifier/
 │
 ├── model_training/      # Model training with TensorFlow
 │   ├── data/            # Dataset and preprocessing scripts
+|   ├── models/          # Contains pretrained models.
 │   └── notebooks/       # Jupyter Notebook files for model training
 │
 ├── .gitignore           # Specifies intentionally untracked files to ignore
